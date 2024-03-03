@@ -1,0 +1,19 @@
+/* body {
+  background-color: black;
+  color: white;
+} */
+
+.left {
+  width: 25vw;
+}
+
+.right {
+  width: 75vw;
+}
+
+.home ul li {
+  width: 14px;
+  list-style: none;
+  display: flex;
+  gap: 3px;
+}

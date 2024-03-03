@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.just-c {
+  justify-content: center;
+}
+
+.items-c {
+  align-items: center;
+}
+.content-c {
+  align-content: center;
+}
+
+.border {
+  border: 2px solid red;
+  margin: 3px;
+}
