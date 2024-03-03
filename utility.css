@@ -15,5 +15,51 @@
 
 .border {
   border: 2px solid red;
-  margin: 3px;
+}
+
+.bg-black {
+  background-color: black;
+  color: white;
+}
+
+.invert-semi {
+  filter: invert(0.7);
+}
+
+.invert {
+  filter: invert(1);
+}
+
+.bg-gray {
+  background-color: #121212;
+  color: white;
+}
+
+.rounded {
+  border-radius: 7px;
+}
+
+.m-1 {
+  margin: 10px;
+}
+
+.p-2 {
+  padding: 20px;
+}
+.g-1 {
+  gap: 5px;
+}
+
+.fs-small {
+  font-size: large;
+}
+
+.flipX {
+  transform: scaleX(-1);
+}
+.flipY {
+  transform: scaleY(-1);
+}
+.m-ln {
+  margin-left: 0;
 }
